@@ -11,6 +11,8 @@ date_footer: "YYYY-MM-DD"
 header_title: "Does a quantum clock still obey the bound?"
 ---
 
+DOI of this text: [doi:10.5281/zenodo.24576562](https://doi.org/10.5281/zenodo.24576562)
+
 This is an introductory text to the research paper *A one-mode quantization of the clock bound on a null cone, and its sensitivity to operator ordering* [[Per26]](https://doi.org/10.5281/zenodo.24575468), by the same author. The paper has the proofs and the computations. This note has the idea. No equations are needed to follow it. It makes no claim the paper does not make, and it says which claims are proved and which are only computed.
 
 Three cautions come first, because the paper puts them first. This is about a **reduced model**: one ray, one pattern of distortion, one direction of squeezing. It is not about full quantum gravity. The ordering result holds **at the vacuum, the quietest quantum state, and for a small quantum effect**, not for every state and every strength. And the main question, whether the bound holds as a full statement about operators, is **left open**.
