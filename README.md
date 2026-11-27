@@ -10,4 +10,4 @@ Source: [intro.md](intro.md). PDF: [does-a-quantum-clock-still-obey-the-bound.pd
 
 ## Cite as
 
-Perreault, M. Does a quantum clock still obey the bound? Introductory text to A one-mode quantization of the clock bound on a null cone, and its sensitivity to operator ordering, version 1.0.1. https://github.com/mik-tf/quantum-clock-null-cone-intro (DOI: [10.5281/zenodo.24576562](https://doi.org/10.5281/zenodo.24576562) (all versions; v1.0 is [10.5281/zenodo.24576563](https://doi.org/10.5281/zenodo.24576563))). See [CITATION.cff](CITATION.cff).
+Perreault, M. Does a quantum clock still obey the bound? Introductory text to A one-mode quantization of the clock bound on a null cone, and its sensitivity to operator ordering, version 1.0.2. https://github.com/mik-tf/quantum-clock-null-cone-intro (DOI: [10.5281/zenodo.24576562](https://doi.org/10.5281/zenodo.24576562) (all versions; v1.0 is [10.5281/zenodo.24576563](https://doi.org/10.5281/zenodo.24576563))). See [CITATION.cff](CITATION.cff).
