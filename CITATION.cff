@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Does a quantum clock still obey the bound? Introductory text to A one-mode quantization of the clock bound on a null cone, and its sensitivity to operator ordering"
+type: generic
+authors:
+  - family-names: Perreault
+    given-names: Michaël
+    orcid: "https://orcid.org/0009-0003-0017-7658"
+    affiliation: "Independent researcher"
+version: "1.0"
+date-released: "2026-11-27"
+license: CC-BY-4.0
+keywords:
+  - null cone
+  - quantum clock
+  - operator ordering
+  - focusing
+references:
+  - type: article
+    title: "A one-mode quantization of the clock bound on a null cone, and its sensitivity to operator ordering"
+    authors:
+      - family-names: Perreault
+        given-names: Michaël
+    doi: "10.5281/zenodo.24575468"
+    year: 2026
