@@ -96,24 +96,6 @@ It does not prove anything. It does not say the result holds beyond the reduced 
 
 We are grateful to Jason Glowney, whose geometric treatment of light, the light cone and hyperbolic curvature in *Arithmoí*, Book 1, led us to the hyperbolic-plane view of null data on which the classical paper, and hence this work, is built.
 
-# References {-}
-
-[Cha26] V. Chandrasekaran, *An algebraic quantization of gravity from the null cone*, 2026, [arXiv:2611.34924](https://arxiv.org/abs/2611.34924).
-
-[Few12] C. J. Fewster, *Lectures on quantum energy inequalities*, [arXiv:1208.5399](https://arxiv.org/abs/1208.5399).
-
-[FR97] L. H. Ford and T. A. Roman, *Restrictions on negative energy density in flat spacetime*, Phys. Rev. D 55 (1997) 2082, [doi:10.1103/PhysRevD.55.2082](https://doi.org/10.1103/PhysRevD.55.2082).
-
-[Glo23] J. Glowney, *Arithmoí: A Study of Mathematical Cohesiveness in Physics and Metaphysics*, Book 1, First Edition, Athene Noctua, 2023.
-
-[Per26] M. Perreault, *A one-mode quantization of the clock bound on a null cone, and its sensitivity to operator ordering*, 2026, Zenodo. [doi:10.5281/zenodo.24575468](https://doi.org/10.5281/zenodo.24575468).
-
-[Per26b] M. Perreault, *Affine length bounds the conformal excursion on a null cone: a sharp focusing inequality*, 2026, Zenodo. [doi:10.5281/zenodo.24572220](https://doi.org/10.5281/zenodo.24572220).
-
-```{=latex}
-\par\ifdim\dimexpr\pagegoal-\pagetotal\relax<15\baselineskip\ifdim\pagetotal>0pt\newpage\fi\fi
-```
-
 # Use of AI {-}
 
 Claude (Anthropic) was used in November 2026, under the author's direction, for drafting, figures and checks.
@@ -127,3 +109,21 @@ Claude (Anthropic) was used in November 2026, under the author's direction, for 
 The full paper, with the proofs, is *A one-mode quantization of the clock bound on a null cone, and its sensitivity to operator ordering*, by Michaël Perreault.
 
 DOI: [doi:10.5281/zenodo.24575468](https://doi.org/10.5281/zenodo.24575468)
+
+```{=latex}
+\par\ifdim\dimexpr\pagegoal-\pagetotal\relax<15\baselineskip\ifdim\pagetotal>0pt\newpage\fi\fi
+```
+
+# References {-}
+
+[Cha26] V. Chandrasekaran, *An algebraic quantization of gravity from the null cone*, 2026, [arXiv:2611.34924](https://arxiv.org/abs/2611.34924).
+
+[Few12] C. J. Fewster, *Lectures on quantum energy inequalities*, [arXiv:1208.5399](https://arxiv.org/abs/1208.5399).
+
+[FR97] L. H. Ford and T. A. Roman, *Restrictions on negative energy density in flat spacetime*, Phys. Rev. D 55 (1997) 2082, [doi:10.1103/PhysRevD.55.2082](https://doi.org/10.1103/PhysRevD.55.2082).
+
+[Glo23] J. Glowney, *Arithmoí: A Study of Mathematical Cohesiveness in Physics and Metaphysics*, Book 1, First Edition, Athene Noctua, 2023.
+
+[Per26] M. Perreault, *A one-mode quantization of the clock bound on a null cone, and its sensitivity to operator ordering*, 2026, Zenodo. [doi:10.5281/zenodo.24575468](https://doi.org/10.5281/zenodo.24575468).
+
+[Per26b] M. Perreault, *Affine length bounds the conformal excursion on a null cone: a sharp focusing inequality*, 2026, Zenodo. [doi:10.5281/zenodo.24572220](https://doi.org/10.5281/zenodo.24572220).
